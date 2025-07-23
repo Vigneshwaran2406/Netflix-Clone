@@ -1,4 +1,4 @@
-# 🎬 Netflix Clone
+# 🎬 Netflix Clone 
 
 A responsive Netflix-inspired web app built using **React**, **TypeScript**, and **Vite**. It fetches real-time movie and TV show data using the **TMDB (The Movie Database) API**.
 
@@ -13,7 +13,7 @@ A responsive Netflix-inspired web app built using **React**, **TypeScript**, and
 - ⚛️ React (with TypeScript)
 - ⚡ Vite
 - 🎨 Tailwind CSS
-- 🔌 TMDB API
+- 🔌 TMDB API- This API doesn't work on INDIAN Server. Kindly use any VPN Services. 
 - 🧩 Axios for API requests
 - 🎯 Custom Components & Hooks
 - 📦 GitHub Pages for deployment
